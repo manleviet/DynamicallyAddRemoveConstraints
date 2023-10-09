@@ -1,3 +1,11 @@
+/*
+ * An example for dynamically add/remove constraints
+ *
+ * Copyright (c) 2023
+ *
+ * @author: Viet-Man Le (vietman.le@ist.tugraz.at)
+ */
+
 package at.tugraz.ist.ase;
 
 import lombok.Builder;
